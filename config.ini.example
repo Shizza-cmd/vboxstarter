@@ -1,0 +1,3 @@
+[virtual_machine]
+vm_name = Your_VM_Name
+vboxmanage_path = Path_to_VBoxManage
